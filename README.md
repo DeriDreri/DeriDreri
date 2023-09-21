@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello there
+My name is Dominik and I am Computer Engineering student from Poland. 
 
 <!--
 **DeriDreri/DeriDreri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
