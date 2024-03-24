@@ -4,6 +4,18 @@ My name is <b>Dominik</b> and I am an <b>Computer Engineering</b> student from P
 For majority of my life I pursued path of physicist, but in 2020 I've written my first ever piece of code and discovered my true passion. Since then I've been chasing this new dream; this journey been the happiest years I ever had and I hope to keep finding opportunities to learn more and more.
 
 
+<h3>Currently exploring:</h1>
+<ul>
+           <li>Functional programming (Haskell + Rust)</li>
+           <li>FPGA for ASIC prototyping</li>
+           <li>C++ for embedded systems</li>
+           <li>AVR architecture microcontrollers and peripherials</li>
+           <li>Linux's kernel (drivers and processes managmenet)</li>
+           <li>RTOS basics</li>
+           <li>Backend architectures</li>
+</ul>
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
            <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> </a>
