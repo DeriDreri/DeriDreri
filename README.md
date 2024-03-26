@@ -8,29 +8,22 @@ For majority of my life I pursued path of physicist, but in 2020 I've written my
            <li>Functional programming (Haskell + Rust)</li>
            <li>FPGA for ASIC prototyping</li>
            <li>C++ for embedded systems</li>
-           <li>AVR architecture microcontrollers and peripherials</li>
+           <li>AVR microcontrollers and peripherials</li>
            <li>Linux's kernel (drivers and processes managmenet)</li>
            <li>RTOS basics</li>
            <li>Backend architectures</li>
 </ul>
 <h2 align="left">Languages and Tools:</h2>
 <h3 align="left">Core:</h3>
-<p align="left"> 
-           <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> </a> 
-           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-           <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-           <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-           <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim", width="40" height="40"/>
-</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,git,neovim,linux,bash,py" />
+  </a>
 <h3 align="left">Secondary:</h3>
-<p align="left"> 
-           <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> </a>
-           <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>  
-           <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">  </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> </a> 
-           <a href="https://www.java.com" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" alt="inkscape" width="40" height="40" /> 
-           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="latex" width="40" height="40" />  
-           <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/haskell/haskell-original.svg" alt="haskell", width="40" height="40"/>
-</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,java,latex,haskell,arduino" />
+  </a>
+<h3 align="left">Learning:</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,lua,rust,spring" />
+  </a>
+
