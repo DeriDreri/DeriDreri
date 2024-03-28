@@ -20,7 +20,7 @@ For majority of my life I pursued path of physicist, but in 2020 I've written my
   </a>
 <h3 align="left">Secondary:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,java,latex,haskell,arduino" />
+    <img src="https://skillicons.dev/icons?i=postgres,java,latex,haskell,arduino,cs" />
   </a>
 <h3 align="left">Learning:</h3>
   <a href="https://skillicons.dev">
